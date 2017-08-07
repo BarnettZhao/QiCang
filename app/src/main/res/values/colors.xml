@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="spilt_line">#e6e7e8</color>
+    <color name="primary_color_red">#d41439</color>
+    <color name="tab_textcolor_normal">#4b4b4b</color>
+
 </resources>

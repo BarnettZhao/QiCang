@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">QiCang</string>
+
+    <string name="toast_back_again_exit">再按一次退出</string>
+
+    <string name="main_tab_home">首页</string>
+    <string name="main_tab_store">店铺</string>
+    <string name="main_tab_custom">定制</string>
+    <string name="main_tab_activity">活动</string>
+    <string name="main_tab_cart">购物车</string>
+    <string name="main_tab_my">我的</string>
 </resources>
